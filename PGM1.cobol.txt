@@ -2,3 +2,6 @@ If x > 100 {
     imprime "Hola"
 }
 end-If
+
+for i=0:30000
+end
